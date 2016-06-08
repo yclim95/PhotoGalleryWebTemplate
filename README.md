@@ -1,7 +1,7 @@
 # Photo Gallery Web Template
 
 ## Live Preview 
-Deployed [**Here**]()
+Deployed [**Here**](http://yc-photogallerytemplate.bitballoon.com/)
 
 ## Programming/Markup Languages used:
 1. HTML 
@@ -20,12 +20,13 @@ Deployed [**Here**]()
 
 ## Others
 1. [LightBox for BootStrap](http://ashleydw.github.io/lightbox/)
+2. [Get Started with LightBox](http://lokeshdhakar.com/projects/lightbox2/)
 
 ## Preview 
 **Web View**
 
-![Web View]()
+![Web View](https://github.com/yclim95/PhotoGalleryWebTemplate/blob/master/img/webPreview.png)
 
 **Mobile View**
 
-![Mobile View]()
+![Mobile View](https://github.com/yclim95/PhotoGalleryWebTemplate/blob/master/img/mobilePreview.png)
